@@ -1,4 +1,4 @@
-fgsrfrs## Hi there 👋
+## Hi there 👋
 
 <!--
 **SeregaShkapov/SeregaShkapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
